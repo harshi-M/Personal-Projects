@@ -5,7 +5,7 @@ Auto grader (Leraning mangement system project)
 
 Machine learning 
 ----------------
-A repo for my machine learning practice projects
+Machine learning practice projects
 
 -> Apparel Recomendation engine
 
