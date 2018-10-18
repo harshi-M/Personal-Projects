@@ -1,4 +1,4 @@
-Auto grader (Leraning mangement system project) 
+Auto grader (Learning mangement system project) 
 ----------------
 
 -> Project report done as part of internship
