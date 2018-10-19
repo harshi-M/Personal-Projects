@@ -13,6 +13,12 @@ Machine learning practice projects
 
 -> Cancer detection (under progress)
 
+UI Projects for data visualization
+----------------------------------
+-> Gap Minder Inspired World Health Data
+
+-> Exploring the 2018 World Coup
+
 Data Analysis
 -------------
 -> Historic Crypto Currency
